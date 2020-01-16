@@ -1,0 +1,4 @@
+C:\Users\ILKER\Source\repos\Edura\Edura.WebUI\obj\Debug\netcoreapp2.0\Edura.WebUI.csprojAssemblyReference.cache
+C:\Users\ILKER\Source\repos\Edura\Edura.WebUI\obj\Debug\netcoreapp2.0\Edura.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\ILKER\Source\repos\Edura\Edura.WebUI\obj\Debug\netcoreapp2.0\Edura.WebUI.AssemblyInfoInputs.cache
+C:\Users\ILKER\Source\repos\Edura\Edura.WebUI\obj\Debug\netcoreapp2.0\Edura.WebUI.AssemblyInfo.cs
